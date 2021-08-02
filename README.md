@@ -12,7 +12,8 @@ This app is developed using [Flutter](https://github.com/flutter/flutter) Framew
 Here I have used [Swiper](https://github.com/best-flutter/flutter_swiper) Library for the top sliding Images.
 
 # App Screenshots
-![SVID_20210731_221546_1_5](https://user-images.githubusercontent.com/68677462/127831510-b93d3b87-3f28-412c-a7b9-5d516c50589d.gif)
+![SVID_20210731_221546_1_5_29](https://user-images.githubusercontent.com/68677462/127869100-6c737e29-2a87-4703-a1d8-55d908b4843d.gif)
+
 
 # Getting Started
 
