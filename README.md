@@ -1,10 +1,20 @@
-# challenge_one_clone
 
-A new Flutter project.
+# Flutter_challenge_one
 
-## Getting Started
+This is the Solution app to the Challenge given by [Haris Samingan](https://github.com/happyharis) through [LinkedIn](https://www.linkedin.com/posts/haris-samingan_design2flutter-flutterdev-flutter-activity-6795957593329295360-swyi/).
+![linkedin_challenge_one_1](https://user-images.githubusercontent.com/68677462/127598437-7a227a9d-23b8-42e3-8d9c-71dd8485001c.png)
 
-This project is a starting point for a Flutter application.
+
+This app is developed using [Flutter](https://github.com/flutter/flutter) Framework.
+
+
+
+Here I have used [Swiper](https://github.com/best-flutter/flutter_swiper) Library for the top sliding Images.
+
+# App Screenshots
+![SVID_20210731_221546_1_5](https://user-images.githubusercontent.com/68677462/127831510-b93d3b87-3f28-412c-a7b9-5d516c50589d.gif)
+
+# Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
